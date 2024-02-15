@@ -1,0 +1,204 @@
+/* first assignment*/
+body{
+   margin: 0px;
+   margin-bottom: 0px;
+
+}
+#hyy{
+    border: 1px solid rgb(240, 178, 9) ;
+    height: 70px;
+    width: 1350px;
+    background-color: rgb(44, 43, 43);
+    color: rgb(240, 178, 9);
+    margin: 0px;
+    padding: 10px; 
+}
+a{
+    text-decoration: none;
+    position: relative;
+    color: white;
+    padding: 40px;
+    left: 750px;
+    bottom: 60px;
+
+
+}
+
+#one{
+    border: 3px solid rgb(240, 178, 9);
+    width: 1350px;
+    height: 500px;
+    position: relative;
+    bottom: 20px;
+}
+h2{
+    font-size: 40px;
+    position: relative;
+    bottom: 400px;
+    left:600px;
+    color: white;
+}
+p{
+    position: relative;
+    bottom: 430px;
+    left: 410px;
+    color: white;
+}
+#two{
+    height: 100px;
+    position: relative;
+    left: 200px ;
+    bottom: 100px;
+
+}
+#three{
+    height: 100px;
+    position: relative;
+    left: 500px ;
+    bottom: 100px;
+}
+#four{
+    height: 100px;
+    position: relative;
+    left: 800px ;
+    bottom: 100px;
+}
+#par1{
+    position: relative;
+    left:200px ;
+    bottom:120px ;
+}
+#par2{
+    position: relative;
+    left:620px ;
+    bottom:160px ;
+}
+#par3{
+    position: relative;
+    left:1000px ;
+    bottom:200px ;
+}
+p1{
+    position: relative;
+    left:100px;
+    bottom: 210px;
+}
+p2{
+    position: relative;
+    left: 550px;
+    bottom: 245px;
+}
+p3{
+    position: relative;
+    left:950px ;
+    bottom:300px ;
+}
+#div1{
+    height: 1000px;
+    position: relative;
+    bottom:200px ;
+    left: 10px;
+}
+h5{
+    font-size: 20px;
+}
+#div2{
+    border: 1px solid black;
+    width: 350px;
+    height: 280px;
+    text-align: center;
+    color: white;
+    background-color:rgb(44, 43, 43) ;
+    position: relative;
+    bottom: 1180px;
+    left: 900px;
+}
+#div3{
+    border: 1px solid rgb(248, 246, 246);
+    width: 800px;
+    height:130px ;
+    background-color: rgb(248, 246, 246);
+}
+#div4{
+    border: 1px solid rgb(248, 246, 246);
+    width: 800px;
+    height:130px ;
+    background-color: rgb(248, 246, 246);
+    margin-top: 10px;
+}
+#div5{
+    border: 1px solid rgb(248, 246, 246);
+    width: 800px;
+    height:130px ;
+    background-color: rgb(248, 246, 246);
+    margin-top: 10px;
+}
+#parent{
+    position: relative;
+    bottom: 1030px;
+    left: 10px;
+}
+#msg{
+    height: 50px;
+    width: 400px ;
+}
+#mi{
+    width: 400px;
+}
+#na{
+    width: 400px;
+}
+button{
+    background-color:rgb(240, 178, 9) ;
+    color: white;
+}
+#box{
+    border: 1px solid rgb(16, 1, 51);
+    width: 500px;
+    height: 300px;
+    background-color: rgb(16, 1, 51);
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    position: relative;
+    left: 850px;
+    bottom: 1430px;
+}
+h11{
+    position: relative;
+    bottom: 1040px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+#hello{
+    background-color:rgb(240, 178, 9) ;
+    position: relative;
+    bottom: 1300px;
+    text-align: center;
+    color: white;
+    width: 1350px;
+    height: 70px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+#hello{
+    position: fixed;
+    bottom: 0px;
+}
+#hyy{
+    padding-top: 30px;
+    word-spacing: 10px;
+    padding-left: 20px;
+
+}
+
+
+    
+
